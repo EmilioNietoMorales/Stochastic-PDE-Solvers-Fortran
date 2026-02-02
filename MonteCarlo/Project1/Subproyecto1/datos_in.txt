@@ -1,0 +1,8 @@
+3.d0         Rcil
+3.d0	     Lcil
+10000        NMC
+0.1d0        MCstep1
+0.3d0        MCstep2
+0.5d0        MCstep3
+0.7d0        MCstep4
+0.9d0        MCstep5

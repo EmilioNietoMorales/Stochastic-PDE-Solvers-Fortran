@@ -1,0 +1,9 @@
+35            Npart
+4.d0         Rcil
+5.d0         Lcil
+1000000      NMC
+100000       Nmed
+8.d0         MCstep
+28           Nbinr
+40           Nbinz
+

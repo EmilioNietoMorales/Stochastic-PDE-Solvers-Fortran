@@ -1,0 +1,7 @@
+dt         2.5e-4
+tmax       4.0d0
+nitmax     16000
+nskip      100
+X          4.0d0
+D          2.4d0
+dx         0.04d0
